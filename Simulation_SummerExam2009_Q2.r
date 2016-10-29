@@ -1,4 +1,4 @@
-# ST3068 -- tutorial -- 21 October 2016
+# ST3068/ST2054 -- tutorial -- 21 October 2016
 # Summer Exam 2009 in the course ST2054
 # Question 2  
 
